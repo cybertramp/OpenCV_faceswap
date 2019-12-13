@@ -16,7 +16,7 @@ OpencCV4를 사용하여 얼굴을 바꾸는 프로그램을 만드는 프로젝
 
 LearnOpenCV의 [faceswap](https://www.learnopencv.com/face-swap-using-opencv-c-python/)을 참고 하였습니다. 
 
-해당 글과 달리 Dlib를 사용하지 않습니다. OpenCV4의 확장모듈인 facemark를 사용합니다.
+해당 글과 달리 D'lib를 사용하지 않습니다. OpenCV4의 확장모듈인 facemark를 사용합니다.
 
 ## Process
 
