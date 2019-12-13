@@ -1,5 +1,4 @@
 # OpenCV Faceswap project
-:happy:
 
 > 19.12.04
 > cybertramp(paran_son@outlook.com)
